@@ -1,8 +1,8 @@
 ### Hi there, I'm Aljaz 👋
-- I love working with JavaScript especially Node.js :smirk:
+- I'm working on too many projects at the same time :sweat_smile:
+- I love working with JavaScript :smirk:
 - I know how to make some fine UIs :ok_hand:
-- But I prefer making the backend :muscle:
-- Working on too many projects at the same time :sweat_smile:
+- but I prefer making the backend :muscle:
 
 Comfortable using:
 1. JavaScript :yellow_heart:
