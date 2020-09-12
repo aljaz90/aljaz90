@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-# 🔭 I’m currently working on 
+### 🔭 I’m currently working on 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aljaz90&repo=TripGenerator)](https://github.com/anuraghazra/github-readme-stats)
 
-# :chart_with_upwards_trend: Github stats
+### :chart_with_upwards_trend: Github stats
 
 [![Aljaz's github stats](https://github-readme-stats.vercel.app/api?username=aljaz90&count_private=true&show_icons=true&theme=chartreuse-dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
