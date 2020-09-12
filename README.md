@@ -5,11 +5,11 @@
 
 ### :clipboard: Languages I use:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljaz90&theme=monokai&hide=ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljaz90&theme=monokai&hide=ShaderLab)](https://github.com/aljaz90?tab=repositories)
 
 ### :chart_with_upwards_trend: GitHub stats:
 
-[![Aljaz's github stats](https://github-readme-stats.vercel.app/api?username=aljaz90&count_private=true&show_icons=true&theme=monokai&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aljaz's github stats](https://github-readme-stats.vercel.app/api?username=aljaz90&count_private=true&show_icons=true&theme=monokai&include_all_commits=true)](https://github.com/aljaz90)
 
 <!--
 **aljaz90/aljaz90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
