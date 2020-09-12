@@ -1,7 +1,7 @@
 ### Hi there, I'm Aljaz 👋
 - I'm working on too many projects at the same time :sweat_smile:
 - I love working with JavaScript :smirk:
-- I know how to make some fine UIs :ok_hand:
+- I know how to make a fine UI :ok_hand:
 - but I prefer making the backend :muscle:
 
 Comfortable using:
