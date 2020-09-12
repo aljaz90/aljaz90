@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :construction: I’m currently working on: 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aljaz90&repo=TripGenerator&theme=monokai&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aljaz90&repo=TripGenerator&theme=monokai&show_owner=true)](https://github.com/aljaz90/TripGenerator)
 
 ### :clipboard: Languages I use:
 
