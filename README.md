@@ -12,4 +12,4 @@ Comfortable using:
 5. HTML / CSS
 
 ### :bar_chart: GitHub stats:
-[![Aljaz's github stats](https://github-readme-stats.vercel.app/api?username=aljaz90&count_private=true&show_icons=true&theme=blueberry&include_all_commits=true)](https://github.com/aljaz90)
+[![Aljaz's github stats](https://github-readme-stats.vercel.app/api?username=aljaz90&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/aljaz90)
